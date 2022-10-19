@@ -4,6 +4,6 @@
 
 We are building on [**Dreamwod**](https://www.dreamwod.app).
 
-💭 [Our webpage ](https://codeball.ai/)   
-🧠 [Our tech blog](https://getsturdy.com/)    
-⭐️ [Follow us on Instagram](https://twitter.com/getsturdy)  
+💪 [Our webpage ](https://www.dreamwod.app/)   
+🧠 [Our tech blog](https://medium.com/dreamwod-tech/)    
+⭐️ [Follow us on Instagram](https://www.instagram.com/thedreamwod/)  
